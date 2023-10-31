@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/textwork/static/css/main.071986bc.css",
+    "main.js": "/textwork/static/js/main.0cbd83de.js",
+    "static/js/787.28cb0dcd.chunk.js": "/textwork/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/textwork/index.html",
+    "main.071986bc.css.map": "/textwork/static/css/main.071986bc.css.map",
+    "main.0cbd83de.js.map": "/textwork/static/js/main.0cbd83de.js.map",
+    "787.28cb0dcd.chunk.js.map": "/textwork/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.071986bc.css",
+    "static/js/main.0cbd83de.js"
+  ]
+}
